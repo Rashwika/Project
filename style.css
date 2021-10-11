@@ -1,0 +1,26 @@
+body{
+    background-color:lightcoral;
+}
+.heading{
+    font-weight: bold;
+    font-size: 25px;
+    width:80%;
+    border-radius: 10px;
+}
+#edit{
+    font-size: 15px;
+    color:brown;
+}
+hr{
+    margin:10px;
+}
+.bgn{
+   padding: 10px;
+   border-radius:10px;
+   width:120px;
+}
+#camera{
+    width:350px;
+    height:350px;
+    border:5px dotted black;
+}

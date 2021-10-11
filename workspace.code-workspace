@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Voice_selfie_app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Image_recognizer"
+	}
+}
